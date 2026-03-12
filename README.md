@@ -1,7 +1,7 @@
 
 # Hi, I'm Štěpán! 👋
 
-I am a **Full-Stack Developer** with a primary focus and passion for the **Laravel Ecosystem**. I specialize in building elegant, scalable web applications using the VILT and TALL stacks, complemented by a strong foundation in native mobile development for iOS and Android.
+I am a **Full-Stack Developer** with a primary focus and passion for the **Laravel Ecosystem**. I specialize in building elegant, scalable web applications using the VILT and TALL stacks, complemented by a strong foundation in native mobile development for iOS and Android. Many of my Laravel applications use Filament for quick and easy administration panels.
 
 ---
 
